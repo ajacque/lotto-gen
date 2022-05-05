@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+body{
+  background-image: url("https://images3.alphacoders.com/144/144565.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.submit{
+  margin-top: 10%;
+  text-align: center;
+}
+button{
+  padding:10px;
+  background:#337357;
+  border:solid 1px #ddd;
+  font-size:20px;
+  font-weight: 800;
+  color:#fff;
+  cursor:pointer;
+  outline:none;
+  border-radius: 50px;
+  padding: 20px;
+
+}
+
+h1{
+  text-align: center;
+  color: #2E2D4D;
+  font-family: 'Koulen', cursive;
+}
+
+button:hover{
+  background:#6D9F71;
+  color:#fff;
+  transition: ease-in 0.5s;
+}
+#numbers{
+  font-size:18px;
+  color:#fff;
+  text-align: center;
+  margin-top: 10%;
+  padding: 20px;
+  font-size: 25px;
+  font-weight: bold;
+}
