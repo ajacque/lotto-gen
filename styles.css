@@ -28,6 +28,7 @@ h1{
   text-align: center;
   color: #B20600;
   font-family: 'Koulen', cursive;
+  text-shadow: 2px 2px #ff0000;
 }
 
 button:hover{
